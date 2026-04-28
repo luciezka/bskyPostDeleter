@@ -126,7 +126,7 @@ def delete_post(token: str, did: str, rkey: str) -> None:
 
 def main():
     print("=" * 40)
-    print("  Bluesky Post Deleter - SilverValkyrie")
+    print("  Bluesky Post Deleter - SilverValkyrie @magicalsatori - hit me up if you have questions")
     print("=" * 40)
 
     now = datetime.now(timezone.utc)
