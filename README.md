@@ -13,4 +13,4 @@ run from cmd - execute the py file with python using the path where the script i
 
 # How to set up an App Password
 
-# log in , go to settings, go to privacy, go to app password, add password, enter some name and copy the app password that will be displayed afterwards
+log in , go to settings, go to privacy, go to app password, add password, enter some name and copy the app password that will be displayed afterwards
